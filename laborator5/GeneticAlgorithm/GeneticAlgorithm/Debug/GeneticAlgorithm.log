@@ -1,0 +1,3 @@
+﻿  GeneticAlgorithm.cpp
+C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator5\GeneticAlgorithm\GeneticAlgorithm\GeneticAlgorithm.cpp(70,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  GeneticAlgorithm.vcxproj -> C:\Users\user\Desktop\laborator_2_marti_ora_8\laborator5\GeneticAlgorithm\Debug\GeneticAlgorithm.exe
